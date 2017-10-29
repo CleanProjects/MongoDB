@@ -1,0 +1,17 @@
+C:\Users\maciek\source\repos\serwisn\ConnectDb\obj\Debug\ConnectDb.csproj.CoreCompileInputs.cache
+C:\Users\maciek\source\repos\serwisn\ConnectDb\bin\Debug\ConnectDb.dll
+C:\Users\maciek\source\repos\serwisn\ConnectDb\bin\Debug\ConnectDb.pdb
+C:\Users\maciek\source\repos\serwisn\ConnectDb\bin\Debug\ConnectDb.pri
+C:\Users\maciek\source\repos\serwisn\ConnectDb\obj\Debug\ConnectDb.dll
+C:\Users\maciek\source\repos\serwisn\ConnectDb\obj\Debug\ConnectDb.pdb
+C:\Users\maciek\source\repos\serwisn\ConnectDb\obj\Debug\priconfig.xml
+C:\Users\maciek\source\repos\serwisn\ConnectDb\obj\Debug\priconfig.xml.intermediate
+C:\Users\maciek\source\repos\serwisn\ConnectDb\obj\Debug\layout.resfiles
+C:\Users\maciek\source\repos\serwisn\ConnectDb\obj\Debug\layout.resfiles.intermediate
+C:\Users\maciek\source\repos\serwisn\ConnectDb\obj\Debug\resources.resfiles
+C:\Users\maciek\source\repos\serwisn\ConnectDb\obj\Debug\resources.resfiles.intermediate
+C:\Users\maciek\source\repos\serwisn\ConnectDb\obj\Debug\pri.resfiles
+C:\Users\maciek\source\repos\serwisn\ConnectDb\obj\Debug\pri.resfiles.intermediate
+C:\Users\maciek\source\repos\serwisn\ConnectDb\obj\Debug\qualifiers.txt
+C:\Users\maciek\source\repos\serwisn\ConnectDb\obj\Debug\qualifiers.txt.intermediate
+C:\Users\maciek\source\repos\serwisn\ConnectDb\obj\Debug\MultipleQualifiersPerDimensionFound.txt

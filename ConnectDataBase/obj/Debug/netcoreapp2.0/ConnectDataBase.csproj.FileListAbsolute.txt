@@ -1,0 +1,9 @@
+C:\Users\maciek\source\repos\serwisn\ConnectDataBase\bin\Debug\netcoreapp2.0\ConnectDataBase.deps.json
+C:\Users\maciek\source\repos\serwisn\ConnectDataBase\bin\Debug\netcoreapp2.0\ConnectDataBase.dll
+C:\Users\maciek\source\repos\serwisn\ConnectDataBase\obj\Debug\netcoreapp2.0\ConnectDataBase.csprojResolveAssemblyReference.cache
+C:\Users\maciek\source\repos\serwisn\ConnectDataBase\obj\Debug\netcoreapp2.0\ConnectDataBase.csproj.CoreCompileInputs.cache
+C:\Users\maciek\source\repos\serwisn\ConnectDataBase\obj\Debug\netcoreapp2.0\ConnectDataBase.AssemblyInfoInputs.cache
+C:\Users\maciek\source\repos\serwisn\ConnectDataBase\obj\Debug\netcoreapp2.0\ConnectDataBase.AssemblyInfo.cs
+C:\Users\maciek\source\repos\serwisn\ConnectDataBase\bin\Debug\netcoreapp2.0\ConnectDataBase.pdb
+C:\Users\maciek\source\repos\serwisn\ConnectDataBase\obj\Debug\netcoreapp2.0\ConnectDataBase.dll
+C:\Users\maciek\source\repos\serwisn\ConnectDataBase\obj\Debug\netcoreapp2.0\ConnectDataBase.pdb

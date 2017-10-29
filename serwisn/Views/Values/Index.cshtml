@@ -1,0 +1,26 @@
+﻿
+@using (Html.BeginForm("p", "Values"))
+{
+
+<input id="add" type="submit" value="Wgraj dane" o" />
+<form  method="post" id="form">
+    @ViewBag.myData
+    <input type="hidden"  />
+</form>
+}
+@using (Html.BeginForm("tlumaczenie", "Values"))
+{
+    
+<input id="kod" type="text" placeholder="Podaj Kod" name="w" required="required" />
+<select class="form-control" id="choosetranslate" name="choosetranslate">
+    <option>Wybierz język tłumaczenia</option>
+    <option>Polski</option>
+    <option>Szwedzki</option>
+    <option>Angielski</option>
+</select>
+<input id="add1" type="submit"  value="Wyszukaj tłumaczenie"  />
+}
+<form method="post" id="form">
+    @ViewBag.Translate
+    <input type="hidden" />
+</form>

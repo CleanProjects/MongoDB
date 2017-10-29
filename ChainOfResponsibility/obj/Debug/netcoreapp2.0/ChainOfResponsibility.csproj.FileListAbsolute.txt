@@ -1,0 +1,11 @@
+C:\Users\maciek\source\repos\serwisn\ChainOfResponsibility\bin\Debug\netcoreapp2.0\ChainOfResponsibility.deps.json
+C:\Users\maciek\source\repos\serwisn\ChainOfResponsibility\bin\Debug\netcoreapp2.0\ChainOfResponsibility.dll
+C:\Users\maciek\source\repos\serwisn\ChainOfResponsibility\bin\Debug\netcoreapp2.0\ChainOfResponsibility.pdb
+C:\Users\maciek\source\repos\serwisn\ChainOfResponsibility\obj\Debug\netcoreapp2.0\ChainOfResponsibility.csprojResolveAssemblyReference.cache
+C:\Users\maciek\source\repos\serwisn\ChainOfResponsibility\obj\Debug\netcoreapp2.0\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\maciek\source\repos\serwisn\ChainOfResponsibility\obj\Debug\netcoreapp2.0\ChainOfResponsibility.AssemblyInfoInputs.cache
+C:\Users\maciek\source\repos\serwisn\ChainOfResponsibility\obj\Debug\netcoreapp2.0\ChainOfResponsibility.AssemblyInfo.cs
+C:\Users\maciek\source\repos\serwisn\ChainOfResponsibility\obj\Debug\netcoreapp2.0\ChainOfResponsibility.dll
+C:\Users\maciek\source\repos\serwisn\ChainOfResponsibility\obj\Debug\netcoreapp2.0\ChainOfResponsibility.pdb
+C:\Users\maciek\source\repos\serwisn\ChainOfResponsibility\bin\Debug\netcoreapp2.0\ConnectDataBase.dll
+C:\Users\maciek\source\repos\serwisn\ChainOfResponsibility\bin\Debug\netcoreapp2.0\ConnectDataBase.pdb

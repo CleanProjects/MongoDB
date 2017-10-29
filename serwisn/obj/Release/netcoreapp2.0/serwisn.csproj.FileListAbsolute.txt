@@ -1,0 +1,11 @@
+C:\Users\maciek\source\repos\serwisn\serwisn\bin\Release\netcoreapp2.0\serwisn.deps.json
+C:\Users\maciek\source\repos\serwisn\serwisn\bin\Release\netcoreapp2.0\serwisn.runtimeconfig.json
+C:\Users\maciek\source\repos\serwisn\serwisn\bin\Release\netcoreapp2.0\serwisn.runtimeconfig.dev.json
+C:\Users\maciek\source\repos\serwisn\serwisn\bin\Release\netcoreapp2.0\serwisn.dll
+C:\Users\maciek\source\repos\serwisn\serwisn\bin\Release\netcoreapp2.0\serwisn.pdb
+C:\Users\maciek\source\repos\serwisn\serwisn\obj\Release\netcoreapp2.0\serwisn.csprojResolveAssemblyReference.cache
+C:\Users\maciek\source\repos\serwisn\serwisn\obj\Release\netcoreapp2.0\serwisn.csproj.CoreCompileInputs.cache
+C:\Users\maciek\source\repos\serwisn\serwisn\obj\Release\netcoreapp2.0\serwisn.AssemblyInfoInputs.cache
+C:\Users\maciek\source\repos\serwisn\serwisn\obj\Release\netcoreapp2.0\serwisn.AssemblyInfo.cs
+C:\Users\maciek\source\repos\serwisn\serwisn\obj\Release\netcoreapp2.0\serwisn.dll
+C:\Users\maciek\source\repos\serwisn\serwisn\obj\Release\netcoreapp2.0\serwisn.pdb
